@@ -21,5 +21,5 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
 
 ----------------------------------------------------------------
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amgmacht)
 - 🔭 I’m currently working on this page. 
