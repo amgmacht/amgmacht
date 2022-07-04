@@ -30,9 +30,6 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgmacht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amgmacht&theme=Gradient&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ----------------------------------------------------------------
 
 
