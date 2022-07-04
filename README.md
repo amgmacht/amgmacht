@@ -32,7 +32,6 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amgmacht&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amgmacht&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----------------------------------------------------------------
 
