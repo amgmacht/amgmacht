@@ -30,6 +30,8 @@ Current mainly scripts for FiveM. Most of my repositories are private for my Teb
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgmacht&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amgmacht&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ----------------------------------------------------------------
 
 
